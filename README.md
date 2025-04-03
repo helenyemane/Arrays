@@ -1,1 +1,1 @@
-# Arrays
+some array methods in JS
